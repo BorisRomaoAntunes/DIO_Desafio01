@@ -11,6 +11,7 @@ if let secondName = secondName {
 
 
 /*
+ DESAFIO_01
  - Criar um projeto no playground usando o Xcode
  - Definir uma _constante_ com o valor inicia "Steve"
  - Definir uma _variável do tipos String opcional e com valor
